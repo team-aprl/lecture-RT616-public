@@ -36,4 +36,3 @@ def benchmark_frames(scene,k=60,path='Hover',phase=0,yaw=0,pitch=25,distance=1.2
                   p95_ms=float(np.percentile(v,95))) for b,v in totals.items()}
     yield dict(type='done',stats=stats,batch_wall_ms=(time.perf_counter()-start_batch)*1000,
                speedup=stats['CPU']['total_ms']/stats['GPU']['total_ms'] if len(backends)==2 else None)
-

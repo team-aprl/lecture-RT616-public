@@ -15,4 +15,3 @@ try:
     raise SystemExit(result.returncode)
 except KeyboardInterrupt:
     raise SystemExit(130)
-

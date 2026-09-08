@@ -9,4 +9,3 @@ def environment_dir():
     return root/'.venv'
 def environment_python():
     return environment_dir()/('Scripts/python.exe' if os.name=='nt' else 'bin/python')
-

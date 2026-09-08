@@ -129,4 +129,3 @@ The server binds **only to 127.0.0.1**; it has no authentication and is not inte
 - `VALIDATION.md`: checks performed and platform limits.
 
 Initial public package, September 2026: extracted from the RT616 point-cloud exercise; includes four models, five paths, up to 64×64 instances, live controls and K-frame timing. No Transformer or KV-cache lesson content is included.
-

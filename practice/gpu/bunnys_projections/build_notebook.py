@@ -54,4 +54,3 @@ n.cells.append(md("""**해석:** CPU는 Numba 단일 스레드, GPU는 CUDA입�
 """))
 nbformat.write(n,out/'PointCloud_CPU_GPU.ipynb')
 print('Dedicated notebook: 6 cells, 3 code cells')
-

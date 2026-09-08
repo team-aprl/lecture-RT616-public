@@ -42,4 +42,3 @@ def stop():
         try:_process.wait(timeout=10)
         except subprocess.TimeoutExpired:_process.kill();_process.wait()
     _process=None
-

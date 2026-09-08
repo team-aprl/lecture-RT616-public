@@ -12,6 +12,7 @@ Initial public package checked on 2026-09-09.
 - run.ps1 launched the actual installed environment on an alternate port.
 - HTTP K batch with 64×64 Bunny, four matching camera poses: four records returned, completion statistics present, first/last CPU/GPU depth checks passed.
 - Browser JavaScript syntax check; PNG frame endpoint and streaming batch log endpoint.
+- Public standalone notebook: noninteractive setup and console cells executed without errors.
 - Models and five trajectories were previously checked in the source exercise. No model archives are part of this package.
 
 The 64×64 check above is a functional test, not a statistically meaningful performance claim. Use K=60 or more on your own device for comparisons.
@@ -25,4 +26,3 @@ The GitHub Actions workflow installs the CPU dependencies on Windows and Ubuntu,
 - Linux **GPU** execution, AMD/Intel/Apple GPU support (not implemented), and hosted Colab GPU execution.
 - Docker: not provided or needed for the native workflow.
 - Other NVIDIA laptop models and driver versions. The setup script performs a real kernel check so incompatible environments fail before opening the viewer.
-
