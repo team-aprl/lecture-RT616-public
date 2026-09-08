@@ -1,0 +1,29 @@
+name: Point-cloud lab smoke test
+on:
+  push:
+    paths:
+      - 'practice/gpu/bunnys_projections/**'
+      - '.github/workflows/pointcloud-lab.yml'
+  pull_request:
+    paths:
+      - 'practice/gpu/bunnys_projections/**'
+      - '.github/workflows/pointcloud-lab.yml'
+permissions:
+  contents: read
+jobs:
+  cpu-smoke:
+    strategy:
+      matrix:
+        os: [ubuntu-latest, windows-latest]
+    runs-on: ${{ matrix.os }}
+    defaults:
+      run:
+        working-directory: practice/gpu/bunnys_projections
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python -m pip install -r requirements-cpu.txt
+      - run: python doctor.py --cpu
+      - run: python -m compileall -q .

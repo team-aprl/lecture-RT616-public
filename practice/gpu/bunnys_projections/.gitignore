@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+rt616_data/
+results/
+*.log
+*_executed.ipynb
+trajectory*.gif
+trajectory*.json
+k_frames_result.json
