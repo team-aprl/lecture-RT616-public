@@ -1,5 +1,9 @@
 # Stanford point-cloud projections: CPU vs GPU
 
+**[Try immediately in your browser — no installation](https://dgist-slam.github.io/practice/gpu/bunnys-projections/)** · [Web demo hosting repository](https://github.com/dgist-slam/dgist-slam.github.io/tree/main/practice/gpu/bunnys-projections)
+
+The web edition uses your computer's WebGL2 graphics backend (including supported AMD, Intel and Apple GPUs), with a JavaScript CPU comparison. It includes four models, grids up to 64×64, camera trajectories and per-frame K-frame benchmarks. Hardware acceleration depends on your browser and driver. The Python/Colab edition below uses NVIDIA CUDA and has different timing boundaries.
+
 Render many copies of **Bunny, Dragon, Happy Buddha, or Drill** from a moving camera, then measure the **same K camera poses** on a compiled CPU loop and a CUDA kernel.
 
 [한국어 빠른 시작](README.ko.md) · [Open in Colab](https://colab.research.google.com/github/team-aprl/lecture-RT616-public/blob/main/practice/gpu/bunnys_projections/PointCloud_CPU_GPU.ipynb)

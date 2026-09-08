@@ -1,5 +1,13 @@
 # 포인트클라우드 CPU/GPU 실습
 
+## 설치 없이 웹에서 먼저 체험하기
+
+**[내 컴퓨터의 GPU로 바로 실행](https://dgist-slam.github.io/practice/gpu/bunnys-projections/)** · [웹 데모 호스팅 리포지토리](https://github.com/dgist-slam/dgist-slam.github.io/tree/main/practice/gpu/bunnys-projections)
+
+브라우저 WebGL2 버전은 지원되는 NVIDIA / AMD / Intel / Apple GPU에서 실행할 수 있습니다. 모델 4종, 최대 64×64 격자, 카메라 경로와 K 프레임 CPU/GPU 측정이 포함되어 있습니다. 실제 하드웨어 가속 여부는 브라우저와 드라이버에 따라 달라지며 화면에서 확인할 수 있습니다. 아래 Python/Colab 버전은 NVIDIA CUDA를 사용하는 별도 실습입니다.
+
+## Python / CUDA로 실행하기
+
 **Docker 없이 실행합니다.** NVIDIA GPU 노트북, 최신 NVIDIA 드라이버, **Python 3.12 64-bit**가 필요합니다. 설치 스크립트가 프로젝트 전용 가상환경에 Python 패키지와 CUDA 라이브러리를 설치합니다.
 
 [Colab에서 바로 실행](https://colab.research.google.com/github/team-aprl/lecture-RT616-public/blob/main/practice/gpu/bunnys_projections/PointCloud_CPU_GPU.ipynb) · [상세 문서 / 문제 해결](README.md)
