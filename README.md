@@ -12,7 +12,7 @@
 | w2-1 | 2026-08-31 | Introduction to Vision and History | Slides | [Open slides](https://docs.google.com/presentation/d/1gwhZsWrAP21KtEaSKmp2daEfqsSAlJCvBoPsFpLuEyE/edit?usp=drivesdk) |
 | w2-2 | 2026-09-02 | Selected Papers | Slides | [Open slides](https://docs.google.com/presentation/d/18Wq4mntRKZf96hjMgV6RsOA3m4bsyXFEI9xqT8U-u7E/edit?usp=drivesdk) |
 | w3 | 2026-09-09 | Introduction to GPUs for Vision | Slides | [Open slides](https://docs.google.com/presentation/d/1zDHWX00JVa7BvrgTjz_WsfTHXvykEXOrJPnH24NX5_4/edit?usp=drivesdk) |
-| w4-1 | 2026-09-14 | ViT, From CNN to Vision Transformer | Slides | [Open slides](https://docs.google.com/presentation/d/1J6UDLo0HFteTNCivRYIUYFyWppyJ0zR9grsEJydqnFM/edit?usp=drivesdk) |
+| w4-1 | 2026-09-14 | From CNN to Vision Transformer | Slides | [Open slides](https://docs.google.com/presentation/d/1J6UDLo0HFteTNCivRYIUYFyWppyJ0zR9grsEJydqnFM/edit?usp=drivesdk) |
 | w4-2 | 2026-09-16 | Parameter Efficient Fine tuning | Slides | [Open slides](https://docs.google.com/presentation/d/1lHgApN11KRQxmFrNrzAxHqtdUOUTBOR-RZ4RO8FtdRE/edit?usp=drivesdk) |
 | — | — | Selected Papers (Plan) | Sheet | [Open sheet](https://docs.google.com/spreadsheets/d/1xBPJQATSau-6g7pnmlemMdvam6BlzjgzbR_S1o7xkNM/edit?usp=drivesdk) |
 | — | — | Selected papers | Folder | [Open folder](https://drive.google.com/drive/folders/1bZG8JaTGWJG9D7OKsWh4bKiqo7HTwy5B) |
