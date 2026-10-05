@@ -15,11 +15,12 @@
 | w4-1 | 2026-09-14 | From CNN to Vision Transformer | Slides | [Open slides](https://docs.google.com/presentation/d/1J6UDLo0HFteTNCivRYIUYFyWppyJ0zR9grsEJydqnFM/edit?usp=drivesdk) |
 | w4-2 | 2026-09-16 | Parameter Efficient Fine tuning | Slides | [Open slides](https://docs.google.com/presentation/d/1lHgApN11KRQxmFrNrzAxHqtdUOUTBOR-RZ4RO8FtdRE/edit?usp=drivesdk) |
 | w5 | 2026-09-21 / 2026-09-23 | LLMs, CLIP, and VLMs | Slides | [Open slides](https://docs.google.com/presentation/d/17sbBE6dyqwP7hbiATsNPh-tNpLWyfbrag_AQEe2WO5s/edit?usp=drivesdk) |
+| w6 | — | (특강) IROS 2026 report | — | — |
 | — | — | Selected Papers (Plan) | Sheet | [Open sheet](https://docs.google.com/spreadsheets/d/1xBPJQATSau-6g7pnmlemMdvam6BlzjgzbR_S1o7xkNM/edit?usp=drivesdk) |
 | — | — | Selected papers | Folder | [Open folder](https://drive.google.com/drive/folders/1bZG8JaTGWJG9D7OKsWh4bKiqo7HTwy5B) |
 | — | — | practices | Folder | [Open folder](https://drive.google.com/drive/folders/1QTEQgpZ5USBgGu9p3AxTS88kFvVDcsgp) |
 
-This index covers all 11 items directly in the public source folder as of October 6, 2026: eight slide decks, one paper-plan sheet, and two folders. Week/session labels and dates follow the source filenames. Links open the original materials on Google Drive.
+This index covers all 11 items directly in the public source folder as of October 6, 2026: eight slide decks, one paper-plan sheet, and two folders, plus the W6 special lecture. Week/session labels and dates for Drive materials follow the source filenames. Links open the original materials on Google Drive.
 
 ## Practice
 - [GPU: Stanford point-cloud projections](practice/gpu/bunnys_projections/README.md) — local Windows/Linux setup, four models, camera trajectories, and per-frame CPU/CUDA benchmarks.
