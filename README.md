@@ -17,7 +17,7 @@
 | w5 | 2026-09-21 / 2026-09-23 | LLMs, CLIP, and VLMs | Slides | [Open slides](https://docs.google.com/presentation/d/17sbBE6dyqwP7hbiATsNPh-tNpLWyfbrag_AQEe2WO5s/edit?usp=drivesdk) |
 | w6 | — | (Special Lecture) IROS 2026 report | — | — |
 | w7-1 | 2026-10-05 | No Class (Gaecheonjeol Holiday) | — | — |
-| w7-2 | 2026-10-07 | Summary of Part 1 | Slides | [Open slides](https://docs.google.com/presentation/d/1ypCdDCmUhiKsfbBGcGeEkf3Jjp7nXGx_C0hz-lYdP-Uyg/edit?usp=drivesdk) |
+| w7-2 | 2026-10-07 | Summary of Part 1 | Slides | [Open slides](https://docs.google.com/presentation/d/1ypCdDCmUhiKsfbBGcGeEkf3r70YAhK6aMCXAmJyYWmY/edit?usp=drivesdk) |
 | w8 | 2026-10-14 | Mid-term Exam (In Class) | Exam | — |
 | w8 | 2026-10-18 | Research Paper Proposal Due | Submission deadline | — |
 | w9-1 | 2026-10-19 | Geometry for Computer Vision Part 1 | Slides | [Open slides](https://docs.google.com/presentation/d/19lMNEYOAnc1dLqttYLoVqXo6oLeovJxORMckwXh9q7M/edit?usp=drivesdk) |
