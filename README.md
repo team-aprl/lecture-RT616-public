@@ -24,12 +24,15 @@
 | w9-2 | 2026-10-21 | Geometry for Computer Vision Part 2 | Slides | [Open slides](https://docs.google.com/presentation/d/1K7RUXwWO5EqT_hMnpPX6CN0IVry5TkClrlinqHLo0A8/edit?usp=drivesdk) |
 | w10-1 | 2026-10-26 | Understanding 3D World - Part 1 | Slides | [Open slides](https://docs.google.com/presentation/d/1xClufGYLFMtwtYREXcm3fJjp7nXGx_C0hz-lYdP-Uyg/edit?usp=drivesdk) |
 | w10-2 | 2026-10-28 | Understanding 3D World - Part 2 | — | — |
-| — | — | Selected Papers (Plan) | Sheet | [Open sheet](https://docs.google.com/spreadsheets/d/1xBPJQATSau-6g7pnmlemMdvam6BlzjgzbR_S1o7xkNM/edit?usp=drivesdk) |
-| — | — | Selected papers | Folder | [Open folder](https://drive.google.com/drive/folders/1bZG8JaTGWJG9D7OKsWh4bKiqo7HTwy5B) |
-| — | — | Practices | Folder | [Open folder](https://drive.google.com/drive/folders/1QTEQgpZ5USBgGu9p3AxTS88kFvVDcsgp) |
-| — | — | Videos | Folder | [Open folder](https://drive.google.com/drive/folders/1_wYvXvzIgSwwEKpKRpLp6e76PIz6Wrmq) |
 
 Week/session labels and dates for slide decks follow the source filenames. The W7–W8 schedule follows the [orientation schedule](https://docs.google.com/presentation/d/17vOuniCPKcUJf647MsEARGbWUyKl7LwuZVaRBLfZCx8/edit?usp=drivesdk). Links open the original materials on Google Drive.
+
+### Course resources
+
+- [Selected Papers Plan](https://docs.google.com/spreadsheets/d/1xBPJQATSau-6g7pnmlemMdvam6BlzjgzbR_S1o7xkNM/edit?usp=drivesdk) — paper selection and planning.
+- [Selected Papers](https://drive.google.com/drive/folders/1bZG8JaTGWJG9D7OKsWh4bKiqo7HTwy5B) — paper collection.
+- [Practices](https://drive.google.com/drive/folders/1QTEQgpZ5USBgGu9p3AxTS88kFvVDcsgp) — practice materials.
+- [Videos](https://drive.google.com/drive/folders/1_wYvXvzIgSwwEKpKRpLp6e76PIz6Wrmq) — course videos.
 
 ## Practice
 - [GPU: Stanford point-cloud projections](practice/gpu/bunnys_projections/README.md) — local Windows/Linux setup, four models, camera trajectories, and per-frame CPU/CUDA benchmarks.
