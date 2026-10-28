@@ -23,7 +23,7 @@
 | w9-1 | 2026-10-19 | Geometry for Computer Vision Part 1 | Slides | [Open slides](https://docs.google.com/presentation/d/19lMNEYOAnc1dLqttYLoVqXo6oLeovJxORMckwXh9q7M/edit?usp=drivesdk) |
 | w9-2 | 2026-10-21 | Geometry for Computer Vision Part 2 | Slides | [Open slides](https://docs.google.com/presentation/d/1K7RUXwWO5EqT_hMnpPX6CN0IVry5TkClrlinqHLo0A8/edit?usp=drivesdk) |
 | w10-1 | 2026-10-26 | Understanding 3D World - Part 1 | Slides | [Open slides](https://docs.google.com/presentation/d/1xClufGYLFMtwtYREXcm3fJjp7nXGx_C0hz-lYdP-Uyg/edit?usp=drivesdk) |
-| w10-2 | 2026-10-28 | Understanding 3D World - Part 2 | — | — |
+| w10-2 | 2026-10-28 | Understanding 3D World - Part 2 | Slides | [Open slides](https://docs.google.com/presentation/d/15VrSgb_uXl_uxeHCj0xz9LtgTZ6FkrM9cViIo1ZMjEE/edit) |
 
 Week/session labels and dates for slide decks follow the source filenames. The W7–W8 schedule follows the [orientation schedule](https://docs.google.com/presentation/d/17vOuniCPKcUJf647MsEARGbWUyKl7LwuZVaRBLfZCx8/edit?usp=drivesdk). Links open the original materials on Google Drive.
 
