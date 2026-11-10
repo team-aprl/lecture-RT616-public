@@ -3,6 +3,8 @@
 ---
 ## Lecture Materials — Fall 2026
 
+Last checked against the course materials folder: 2026-11-10.
+
 [Course materials on Google Drive](https://drive.google.com/drive/folders/1gM1mRi-DeptQ_AWnFm49nrRHVkyv2-MK) · [Slides (public), short link](https://tinyurl.com/RT616-26F-slides)
 
 | Week / session | Date | Material | Format | Link |
@@ -24,6 +26,7 @@
 | w9-2 | 2026-10-21 | Geometry for Computer Vision Part 2 | Slides | [Open slides](https://docs.google.com/presentation/d/1K7RUXwWO5EqT_hMnpPX6CN0IVry5TkClrlinqHLo0A8/edit?usp=drivesdk) |
 | w10-1 | 2026-10-26 | Understanding 3D World - Part 1 | Slides | [Open slides](https://docs.google.com/presentation/d/1xClufGYLFMtwtYREXcm3fJjp7nXGx_C0hz-lYdP-Uyg/edit?usp=drivesdk) |
 | w10-2 | 2026-10-28 | Understanding 3D World - Part 2 | Slides | [Open slides](https://docs.google.com/presentation/d/15VrSgb_uXl_uxeHCj0xz9LtgTZ6FkrM9cViIo1ZMjEE/edit) |
+| w12 | 2026-11-09 | Vision Language Decision Models | Slides | [Open slides](https://docs.google.com/presentation/d/1-3KeCcK8VxEJehs1NyP73ZldtYotSyFQefqL8EEW6AU/edit?usp=drivesdk) |
 
 Week/session labels and dates for slide decks follow the source filenames. The W7–W8 schedule follows the [orientation schedule](https://docs.google.com/presentation/d/17vOuniCPKcUJf647MsEARGbWUyKl7LwuZVaRBLfZCx8/edit?usp=drivesdk). Links open the original materials on Google Drive.
 
