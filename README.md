@@ -29,6 +29,7 @@ Last checked against the course materials folder: 2026-11-16.
 | w12-1 | 2026-11-09 | Vision Language Decision Models - Concept and Practices | Slides | [Open slides](https://docs.google.com/presentation/d/1-3KeCcK8VxEJehs1NyP73ZldtYotSyFQefqL8EEW6AU/edit?usp=drivesdk) |
 | w12-2 | 2026-11-11 | Vision Language Decision Models - Case Study | Slides | [Open slides](https://docs.google.com/presentation/d/1sVKn6mnCriHPKc2hbSfZaiMFfLm1cmIilTV9fFK06rQ/edit?usp=drivesdk) |
 | w13-1 | 2026-11-16 | About Final Project – Writing a paper in the LLM review era | Slides | [Open slides](https://docs.google.com/presentation/d/1uHUTVgxIKjfJN-KOjFzYaVqqc296WLdRyrCy0UULUqQ/edit?usp=drivesdk) |
+| w13-2 | 2026-11-18 | A History of Robot Intelligence and VLAs | Slides | [Open slides](https://docs.google.com/presentation/d/1WHLjVZ71YxJGZIhwwJgH8DRC3elpWrdBOkf0IQeWR2g/edit?slide=id.g40a0b78563f_1_0#slide=id.g40a0b78563f_1_0) |
 
 Week/session labels and dates for slide decks follow the source filenames. The W7–W8 schedule follows the [orientation schedule](https://docs.google.com/presentation/d/17vOuniCPKcUJf647MsEARGbWUyKl7LwuZVaRBLfZCx8/edit?usp=drivesdk). Links open the original materials on Google Drive.
 
